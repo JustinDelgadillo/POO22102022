@@ -39,7 +39,7 @@ public class PruebaEjemplo {
         
             
             
-        
+       
        String SANTIAGO     =  ("Nombre: " + nombres [0] + " ID: " + idCliente [0]+ " Tu balance es de: " + balance [0] );
        String DIEGO     =  ("Nombre: " + nombres [1] + " ID: "+ idCliente [1] + " Tu balance es de: " + balance [1] );
        String JAVIER     =  ("Nombre: " + nombres [2] + " ID: " + idCliente [2] + " Tu balance es de: " + balance [2] );
